@@ -40,13 +40,13 @@
 
 #middle-child03 {
     top: 500px; 
-    left: 500px; /
+    left: 500px;
 }
 
 #bottom {
     width: 800px;
     height: 300px;
-    margin: 0 auto 20px;
+    margin: 0 auto 20px auto;
     background-color: #87ceeb;
 }
 
@@ -65,3 +65,4 @@
     left: 400px;
 
 }
+
